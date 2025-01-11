@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<p>Trường THPT Tân An</p>
+<p>Lớp 12A6</p>
+<p>This website is created by Nguyễn Ngọc Bảo Châu</p>
+    <title>Quy Trình Chế Biến và Thành Phần của Mì Ăn Liền</title>
+    <style>
+        body {
+            font-family: Times new roman, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #ff6600;
+            margin-top: 20px;
+        }
+        ol, ul {
+            padding-left: 20px;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Quy Trình Chế Biến và Thành Phần của Mì Ăn Liền</h1>
+
+        <h2>1. Quy Trình Chế Biến Mì Ăn Liền</h2>
+        <ol>
+            <li><strong>Bước 1:</strong> Trộn bột - Bột mì được trộn đều với nước và các phụ gia để tạo thành khối bột.</li>
+
+<img src="https://images.app.goo.gl/qauHHAn8FGxhrGd18" alt="mô tả mì" />
+
+            <li><strong>Bước 2:</strong> Cán bột - Khối bột được cán mỏng thành từng lớp để tạo sợi mì.</li>
+            <li><strong>Bước 3:</strong> Cắt và tạo hình - Bột cán mỏng được cắt thành sợi và định hình theo từng loại mì.</li>
+
+<img src="https://images.app.goo.gl/7NcwheVr9sMSsKYu7" alt="mô tả cắt" />
+
+            <li><strong>Bước 4:</strong> Hấp - Sợi mì được hấp chín để giữ độ dai và tăng hương vị.</li>
+            <li><strong>Bước 5:</strong> Chiên hoặc sấy khô - Mì được chiên trong dầu hoặc sấy khô để tăng thời gian bảo quản.</li>
+            <li><strong>Bước 6:</strong> Đóng gói - Mì ăn liền được đóng gói cùng với gói gia vị và đưa ra thị trường.</li>
+
+<img src="https://images.app.goo.gl/YMaaSjSMC324R2M29" alt="mô tả mì gói" />
+<img src="https://images.app.goo.gl/17j5oC2aVU8vMxD96" alt="mô tả mì gói" />
+
+        </ol>
+
+        <h2>2. Thành Phần Chính của Mì Ăn Liền</h2>
+        <ul>
+            <li><strong>Bột mì:</strong> Nguyên liệu chính tạo nên sợi mì.</li>
+
+<img src="https://images.app.goo.gl/2xoWJiUpvWjvygeDA" alt="mô tả bột" />
+
+            <li><strong>Dầu thực vật:</strong> Dùng trong quá trình chiên mì.</li>
+
+<img src="https://images.app.goo.gl/x65X4DYHa58EgPDB7" alt="mô tả dầu" />
+
+            <li><strong>Gia vị:</strong> Muối, đường, bột ngọt, nước tương và các hương liệu khác.</li>
+
+<img src="https://images.app.goo.gl/o28gMpiYtpssV3cBA" alt="mô tả gia vị" />
+
+            <li><strong>Chất bảo quản:</strong> Giúp kéo dài thời gian sử dụng của mì.</li>
+            <li><strong>Rau củ khô:</strong> Tạo thêm hương vị và giá trị dinh dưỡng cho mì.</li>
+
+<img src="https://images.app.goo.gl/ntFRX3awUNxMeW9aA" alt="mô tả rau" />
+
+        </ul>
+
+        <div class="footer">
+            <p>Thông tin trên chỉ mang tính chất tham khảo. Vui lòng đọc kỹ thông tin trên bao bì sản phẩm.</p>
+        </div>
+    </div>
+</body>
+
+
+    <title>Bảng Giá Trị và Thành Phần Dinh Dưỡng</title>
+    <style>
+ body {
+            font-family: Times new roman, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+       
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+        }
+        th {
+            background-color: #ffcc00;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Bảng Giá Trị và Thành Phần Dinh Dưỡng của Mì Ăn Liền</h1>
+
+<table>
+    <tr>
+        <th rowspan="2">Thành Phần</th>
+        <th colspan="2">Giá Trị Dinh Dưỡng</th>
+    </tr>
+    <tr>
+        <th>Trọng Lượng (g)</th>
+        <th>Hàm Lượng (%)</th>
+    </tr>
+    <tr>
+        <td>Chất Béo</td>
+        <td>10,9 g</td>
+        <td>16%</td>
+    </tr>
+    <tr>
+        <td>Carbohydrate</td>
+        <td>42,8 g</td>
+        <td>64%</td>
+    </tr>
+    <tr>
+        <td>Chất Đạm (Protein)</td>
+        <td>6,8 g</td>
+        <td>10%</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Ghi chú:</strong> Giá trị dinh dưỡng dựa trên khẩu phần 1 ly mì (67 g).</td>
+    </tr>
+</table>
+<p><h2>Các đường dẫn tham khảo của mì ăn liền</h2></p>
+<p>
+- Website: <a href="https://www.mihaohao.vn"> Web chính thức của mì Hảo Hảo</a> <br>
+- Website: <a href="https://acecokkvietnam.vn">Trang web của Acecook</a> <br>
+- Youtube: <a href="https://youtu.be/D0Gq0IxoX54?si=M0pWLdrYwOeGZ5K3">
+ video quy trình sản xuất mì Hảo Hảo</a>
+</p>
+
+
+</body>
+</html>
+</html>
